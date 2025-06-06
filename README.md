@@ -31,6 +31,7 @@ This project welcomes contributions from the community. Before submitting a pull
 ## Security
 
 Please consult the [security guide](./SECURITY.md) for our responsible security vulnerability disclosure process
+![image](https://github.com/user-attachments/assets/343221e8-4612-4340-bc11-7f5961828c4f)
 
 ## License
 
